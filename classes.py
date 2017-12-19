@@ -6,4 +6,4 @@ class nameReturner:
     else:
       print("Program terminated...")
 name1 = nameReturner()
-name1.name("Waleed")
+name1.name("Jack")
